@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kaio Sena</h1>
-<h3 align="center">A Developer in development.</h3>
+<h3 align="center">A Developer under development.</h3>
 
 - 🌱 I’m currently learning **JAVA, C# and Node.js**
 
